@@ -1,0 +1,30 @@
+.content {
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+}
+
+.backbutton Button {
+  border: none;
+  font-weight: 600;
+}
+
+.imageofblog {
+  min-height: 350px;
+  width: 100%;
+}
+
+.imageofblog img {
+  min-height: 350px;
+  width: 100%;
+}
+.titleofblog {
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 0.19px;
+  margin-bottom: 30px;
+}
+.maincontent {
+  font-size: 18px;
+  line-height: 1.78;
+}

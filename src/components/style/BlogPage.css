@@ -1,0 +1,28 @@
+.blogHeading {
+  display: flex;
+  justify-content: space-between;
+  /* flex-wrap: nowrap; */
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.backbutton {
+  margin-left: 100px;
+  font-weight: 700;
+}
+
+.options {
+  margin-right: 100px;
+}
+
+.options Button {
+  margin-right: 10px;
+}
+
+/* .options {
+  margin-right: 20px;
+} */
+/* .anticon anticon-delete */
+.anticon {
+  margin-right: 10px;
+}

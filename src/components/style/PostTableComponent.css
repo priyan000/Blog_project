@@ -1,0 +1,7 @@
+.actions {
+  display: none;
+}
+
+tr:hover .actions {
+  display: block;
+}

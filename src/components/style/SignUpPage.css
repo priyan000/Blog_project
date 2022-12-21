@@ -1,0 +1,43 @@
+.bloglogo {
+  margin: 50px;
+  width: 140px;
+  height: 40px;
+}
+.formpartsignup {
+  margin-top: 130px;
+  margin-left: 200px;
+}
+.firstandlastname {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.firstandlastname Input {
+  width: 195px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.inputarea {
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.signupbutton {
+  width: 73px;
+  height: 32px;
+  margin-left: 163px;
+  border-radius: 10px;
+}
+.footerlinkforsignin {
+  width: 207px;
+  height: 20px;
+  margin-left: 290px;
+  margin-top: 70px;
+}
+
+.imageside {
+  margin-left: 100px;
+}

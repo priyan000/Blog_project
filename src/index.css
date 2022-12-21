@@ -1,0 +1,12 @@
+.primary-nav {
+  background-color: rgb(209, 209, 209);
+  padding: 16px 36px;
+}
+.primary-nav a {
+  margin-right: 16px;
+}
+
+nav a.active {
+  text-decoration: underline;
+  font-weight: 600;
+}

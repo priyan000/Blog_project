@@ -1,0 +1,74 @@
+.wholeblogcontent {
+  /* margin-top: 60px; */
+  /* margin-left: 50px; */
+  /* margin-right: 50px; */
+  background-color: white;
+
+  padding-top: 60px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  height: 90vh;
+  width: 100%;
+  overflow: scroll;
+}
+.ant-layout-content {
+  background-color: white;
+}
+
+.contentheading,
+.contentavatar {
+  margin-left: 20px;
+}
+
+.contentheading {
+  font-size: 20px;
+  letter-spacing: 0.19px;
+}
+
+.contentavatar {
+  margin-top: 10px;
+  /* background-color: white; */
+}
+
+.maincontentofpost {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.78;
+  /* background-color: white; */
+}
+
+.imageincontent {
+  /* height: 250px; */
+  margin-top: 20px;
+}
+
+.imageincontent img {
+  max-height: 280px;
+  width: 100%;
+}
+
+.commentsoncontent {
+  margin-top: 20px;
+}
+
+/* .commentactions {
+  display: none;
+}
+
+.commentactions :hover {
+  display: block;
+} */
+
+/* .ant-list-item-action {
+  display: none;
+}
+
+li:hover .ant-list-item-action {
+  display: block;
+} */
+
+/* 
+.commentactions {
+  margin-left: 20px;
+} */
